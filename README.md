@@ -17,6 +17,7 @@ Other details:
 - The description of each assignment is taken from the course website. 
 - The assignments are from Winter 2022, however the recorded lectures were from Winter 2019 and so the online material does not cover _all_ of the knowledge required for the assignments,
   some independent research is required.
+- Assignment 5, end of part 2 does not run properly due to a pickling error.
 
 ## Assignment 1 - Pytorch 101 and a kNN Classifier
 In this assignment, you will first learn how to use PyTorch on Google Colab environment. You will then practice putting together a simple image classification pipeline, based on the k-Nearest Neighbor, and finally will learn how to use Autograder for evaluating what you implement. The goals of this assignment are as follows:
@@ -53,7 +54,7 @@ In this assignment, you will implement two different object detection systems. T
 Some of the code provided in the couse website does not work for this assignment.
 
 ## Assignments 5 - Image Captioning with RNNs and Transformer Model for Simple Arithmetic Operations
-_Transformer part of assignmnet is incomplete due to external errors._ 
+_Transformer part of assignmnet is incomplete due to a pickling error in original/given code._ 
 
 In this assignment, you will implement two different attention-based models, RNN and Transformers. The goals of this assignment are:
 - Understand and implement recurrent neural networks
