@@ -53,7 +53,8 @@ In this assignment, you will implement two different object detection systems. T
 Some of the code provided in the couse website does not work for this assignment.
 
 ## Assignments 5 - Image Captioning with RNNs and Transformer Model for Simple Arithmetic Operations
-_Transformer part of assignmnet is incomplete due to external errors._
+_Transformer part of assignmnet is incomplete due to external errors._ 
+
 In this assignment, you will implement two different attention-based models, RNN and Transformers. The goals of this assignment are:
 - Understand and implement recurrent neural networks
 - See how recurrent neural networks can be used for image captioning
