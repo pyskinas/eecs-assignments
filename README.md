@@ -63,4 +63,12 @@ In this assignment, you will implement two different attention-based models, RNN
 - Use the Transformer model on a toy dataset
 
 
-## Assignment 6 - To Be Completed By 31st January
+## Assignment 6 - Variational Autoencoder, GAN, Network Visualisation, and Style Transfer
+In this assignment you will implement two different kinds of generative models: Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs).
+
+The goals of this assignment are:
+- Understand and implement a variational autoencoder and a conditional variational autoencoderand apply them to the MNIST dataset
+- Understand and implement a generative adversarial network and apply it to the MNIST dataset
+- Use image gradients to synthesize saliency maps, adversarial examples, and perform class visualizations
+- Combine content and style losses to perform artistic style transfer
+
